@@ -1,1 +1,2 @@
 modificación1 del archivo2.txt en rama2
+modificación2 del archivo2.txt en rama2
